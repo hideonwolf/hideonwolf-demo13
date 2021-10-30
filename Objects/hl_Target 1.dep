@@ -1,0 +1,2 @@
+Dependencies for Project 'hl', Target 'Target 1': (DO NOT MODIFY !)
+F (D:\hl.s)(0x617CE4AD)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-I.\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 526" --pd "STM32F10X_MD SETA 1"--list .\listings\hl.lst --xref -o .\objects\hl.o --depend .\objects\hl.d)
